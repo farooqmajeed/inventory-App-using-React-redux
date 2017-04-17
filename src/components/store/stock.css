@@ -1,0 +1,15 @@
+.stock-loginContainer {
+      min-width: 320px;
+      max-width: 1500px;
+      height: auto;
+      position: absolute;
+      top: 10%;
+      left: 0;
+      right: 0;
+      margin: auto;
+}
+
+.stock-paper {
+    padding: 20px;
+    overflow: auto
+}

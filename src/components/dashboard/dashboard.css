@@ -1,0 +1,50 @@
+.db-loginContainer {
+      min-width: 320px;
+      max-width: 400px;
+      height: auto;
+      position: absolute;
+      top: 20%;
+      left: 0;
+      right: 0;
+      margin: auto;
+}
+
+.db-paper {
+    padding: 20px;
+    overflow: auto
+}
+.db-buttonsDiv {
+    text-align: center;
+    padding: 10px
+}
+.db-flatButton {
+    color: white !important;
+    background: #9E9E9E !important;
+    margin: 5px !important;
+}
+
+
+/*.db-loginBtn {
+    float: right;
+    margin: 5px;
+}
+
+.db-btn {
+    background: '#4f81e9';
+    color: white;
+    padding: 7px;
+    border-radius: 2px;
+    margin: 2px;
+    font-size: 13;
+    width:100%;
+}
+.db-btnSpan {
+    margin-left: 5px;
+}*/
+
+.btn{
+     width:100%;
+     padding: 7px;
+     margin: 5px;
+     float: right;
+}
